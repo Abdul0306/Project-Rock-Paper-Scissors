@@ -1,0 +1,18 @@
+1. Spilleren velger: stein, saks eller papir .
+
+2. Datamaskin velger: stein, saks eller papir .
+
+3. Sammenlign de trekkene: spillerens valg blir sammenlignet  
+   med Datamaskinens valg
+
+4. Hvis de er like Resultat: = Uavgjort.
+
+5. Hvis spilleren vinner: Resultat = spilleren vinner.
+
+6. Hvis Datamaskin vinner:  Resultat = Datamaskin vinner
+
+7. Vis Resultat: Viser hvem som vant, tapte eller  uavgjort
+
+8. spilleren kan ikke legg til tilfeilg orde
+
+8. Runder: spille skal ha fem runder.
