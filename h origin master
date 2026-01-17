@@ -1,0 +1,17 @@
+[33myCommit df08a700b02babd64e617f4da27d1f771995fe97[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/rps-ui[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: abdulkadir <mustafamumin02@hotmail.com>
+Date:   Mon Sep 15 15:56:45 2025 +0200
+
+    Legger til manglende filer
+
+[33mcommit fdc04944e5d102d28df7717022e832e5320f4bcb[m
+Author: abdulkadir <mustafamumin02@hotmail.com>
+Date:   Tue Sep 9 16:44:35 2025 +0200
+
+    Remove old pseudocode file
+
+[33mcommit 6734a5feaf18835dc6c480b0c8d69fa470a06ebf[m
+Author: abdulkadir <mustafamumin02@hotmail.com>
+Date:   Tue Sep 9 16:22:45 2025 +0200
+
+    Initial commit
